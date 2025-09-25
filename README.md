@@ -4,4 +4,6 @@ Handles the pretty specific case of taking a starting-point public Google Doc (t
 
 Meant to handle the case of this [pretty cool book on agentic system design](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#heading=h.pxcur8v2qagu).
 
+Requires Docker Desktop to run. Follow the build / run instructions in Dockerfile.
+
 Written almost entirely by ChatGPT.
